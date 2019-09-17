@@ -15,3 +15,5 @@ Powers LED strips on a electric scooter. Treats two LED strips as a single matri
 Build and flash your Arduino. Tested on an Uno using VSCode.
 
 Uses [FastLED](https://github.com/FastLED/FastLED).
+
+Animations via [hsiboy](https://gist.github.com/hsiboy/f9ef711418b40e259b06)
